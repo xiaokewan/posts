@@ -29,9 +29,9 @@ bio: My research interests include FPGAs, EDA algorithms.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - FPGA architecture
+  - Programmable photonics router
+  - Benchmark Suits
 
 # Education to show in About widget
 education:
